@@ -1,3 +1,3 @@
 # Ruby on Rails tutorial: first application
 
-This is the first application for [*Ruby on rRails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/). Performed by [Micah Werbitt](http://werbitt.com).
+This is the first application for [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/). Performed by [Micah Werbitt](http://werbitt.com).
